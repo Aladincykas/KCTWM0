@@ -9,5 +9,17 @@
     "height": 38,
     "fps": 30,
     "durationSec": 219
+  },
+  {
+    "name": "Bad Apple 2",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/bad-apple-2/bad-apple-20.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/bad-apple-2/bad-apple-21.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/bad-apple-2/bad-apple-22.32vid"
+    ],
+    "width": 71,
+    "height": 38,
+    "fps": 30,
+    "durationSec": 219
   }
 ]
