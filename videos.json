@@ -32,5 +32,15 @@
     "height": 38,
     "fps": 24,
     "durationSec": 100
+  },
+  {
+    "name": "Demon Slayer Gurenge",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/demon-slayer-gurenge/demon-slayer-gurenge0.32vid"
+    ],
+    "width": 71,
+    "height": 38,
+    "fps": 24,
+    "durationSec": 89
   }
 ]
