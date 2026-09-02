@@ -53,5 +53,16 @@
     "height": 38,
     "fps": 24,
     "durationSec": 91
+  },
+  {
+    "name": "Ade - Outro",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/ade-outro/ade-outro0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/ade-outro/ade-outro1.32vid"
+    ],
+    "width": 71,
+    "height": 38,
+    "fps": 24,
+    "durationSec": 144
   }
 ]
