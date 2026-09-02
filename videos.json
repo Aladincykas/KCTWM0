@@ -23,17 +23,6 @@
     "durationSec": 92
   },
   {
-    "name": "No Game No Life Opening",
-    "chunks": [
-      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/no-game-no-life-opening/no-game-no-life-opening0.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/no-game-no-life-opening/no-game-no-life-opening1.32vid"
-    ],
-    "width": 71,
-    "height": 38,
-    "fps": 24,
-    "durationSec": 100
-  },
-  {
     "name": "Demon Slayer Gurenge",
     "chunks": [
       "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/demon-slayer-gurenge/demon-slayer-gurenge0.32vid"
