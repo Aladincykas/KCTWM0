@@ -42,5 +42,16 @@
     "height": 38,
     "fps": 24,
     "durationSec": 89
+  },
+  {
+    "name": "NEON GENESIS EVANGELION Opening",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/neon-genesis-evangelion-opening/neon-genesis-evangelion-opening0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/neon-genesis-evangelion-opening/neon-genesis-evangelion-opening1.32vid"
+    ],
+    "width": 71,
+    "height": 38,
+    "fps": 30,
+    "durationSec": 109
   }
 ]
