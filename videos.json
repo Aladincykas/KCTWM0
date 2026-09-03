@@ -77,5 +77,48 @@
     "height": 38,
     "fps": 20,
     "durationSec": 92
+  },
+  {
+    "name": "Shr3k",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k13.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k14.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k15.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k16.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k17.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k18.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k19.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k20.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k21.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k22.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k23.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k24.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k25.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k26.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k27.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k28.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k_a0.dfpwm",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k_a1.dfpwm",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/shr3k/shr3k_a2.dfpwm"
+    ],
+    "width": 71,
+    "height": 38,
+    "fps": 20,
+    "durationSec": 5182
   }
 ]
