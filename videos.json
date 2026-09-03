@@ -64,5 +64,18 @@
     "height": 38,
     "fps": 20,
     "durationSec": 91
+  },
+  {
+    "name": "Tokyo Ghoul Opening",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/tokyo-ghoul-opening/tokyo-ghoul-opening0.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/tokyo-ghoul-opening/tokyo-ghoul-opening_a0.dfpwm"
+    ],
+    "width": 71,
+    "height": 38,
+    "fps": 20,
+    "durationSec": 92
   }
 ]
