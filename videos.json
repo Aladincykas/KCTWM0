@@ -51,5 +51,18 @@
     "height": 38,
     "fps": 20,
     "durationSec": 144
+  },
+  {
+    "name": "Sailor Moon S4 Opening",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/sailor-moon-s4-opening/sailor-moon-s4-opening0.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/sailor-moon-s4-opening/sailor-moon-s4-opening_a0.dfpwm"
+    ],
+    "width": 71,
+    "height": 38,
+    "fps": 20,
+    "durationSec": 91
   }
 ]
