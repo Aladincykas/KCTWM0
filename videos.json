@@ -25,5 +25,18 @@
     "height": 38,
     "fps": 20,
     "durationSec": 89
+  },
+  {
+    "name": "Evangelion Opening",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/evangelion-opening/evangelion-opening0.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/evangelion-opening/evangelion-opening_a0.dfpwm"
+    ],
+    "width": 71,
+    "height": 38,
+    "fps": 20,
+    "durationSec": 109
   }
 ]
