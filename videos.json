@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "Bad Apple",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/bad-apple/bad-apple0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/bad-apple/bad-apple1.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/KCTWM0/main/videos/bad-apple/bad-apple_a0.dfpwm"
+    ],
+    "width": 71,
+    "height": 38,
+    "fps": 20,
+    "durationSec": 219
+  }
+]
